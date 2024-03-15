@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231388031816",
+    "project_id": "efish-83b9f",
+    "storage_bucket": "efish-83b9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231388031816:android:9b90d2dca4317dd0e2e17d",
+        "android_client_info": {
+          "package_name": "com.efishbooster.efish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231388031816-fm6b86o4v32noun3br900l6hb3efng5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2p8x9s1v8sXjnpNg61GRx-vX8-Gm2kyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231388031816-fm6b86o4v32noun3br900l6hb3efng5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
